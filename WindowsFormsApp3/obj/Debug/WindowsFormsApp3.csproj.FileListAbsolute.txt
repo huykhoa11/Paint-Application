@@ -1,0 +1,20 @@
+C:\Users\user\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\user\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\user\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\user\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\user\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\user\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\user\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\user\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+E:\LapTrinh\C# VB .NET\PaintApp\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\LapTrinh\C# VB .NET\PaintApp\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\LapTrinh\C# VB .NET\PaintApp\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\LapTrinh\C# VB .NET\PaintApp\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\LapTrinh\C# VB .NET\PaintApp\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\LapTrinh\C# VB .NET\PaintApp\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\LapTrinh\C# VB .NET\PaintApp\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\LapTrinh\C# VB .NET\PaintApp\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\LapTrinh\C# VB .NET\PaintApp\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\LapTrinh\C# VB .NET\PaintApp\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache

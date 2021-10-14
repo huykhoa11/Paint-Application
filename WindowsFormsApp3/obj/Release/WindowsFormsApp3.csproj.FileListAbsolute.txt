@@ -1,0 +1,9 @@
+E:\LapTrinh\C# VB .NET\PaintApp\WindowsFormsApp3\bin\Release\WindowsFormsApp3.exe.config
+E:\LapTrinh\C# VB .NET\PaintApp\WindowsFormsApp3\bin\Release\WindowsFormsApp3.exe
+E:\LapTrinh\C# VB .NET\PaintApp\WindowsFormsApp3\bin\Release\WindowsFormsApp3.pdb
+E:\LapTrinh\C# VB .NET\PaintApp\WindowsFormsApp3\obj\Release\WindowsFormsApp3.Form1.resources
+E:\LapTrinh\C# VB .NET\PaintApp\WindowsFormsApp3\obj\Release\WindowsFormsApp3.Properties.Resources.resources
+E:\LapTrinh\C# VB .NET\PaintApp\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\LapTrinh\C# VB .NET\PaintApp\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\LapTrinh\C# VB .NET\PaintApp\WindowsFormsApp3\obj\Release\WindowsFormsApp3.exe
+E:\LapTrinh\C# VB .NET\PaintApp\WindowsFormsApp3\obj\Release\WindowsFormsApp3.pdb
