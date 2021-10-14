@@ -6,7 +6,7 @@ After all, users also can save file or load image file from computer.
 
 # How to run
 Run WindowsFormsApp3.exe file from PaintApp\WindowsFormsApp3\bin\Release\WindowsFormsApp3.exe. <br>
-To open the project, open WindowsFormsApp3.sln by Visual Studio <br>
+To open the project, open WindowsFormsApp3.sln by Visual Studio. <br>
 
 # Preview
 This is preview of my Paint Application version. <br><br>
